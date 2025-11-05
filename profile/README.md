@@ -4,7 +4,7 @@ This project aims to provide a comprehensive automation infrastructure for Raspb
 
 ## Repositories Overview
 
-### rpi-virtualisation-infra-ansible
+### rpi-automation-infra-ansible
 
 This repository contains Ansible playbooks and roles designed to automate the infrastructure setup and configuration of Raspberry Pi devices. 
 It includes virtualization setups, system provisioning, and best practices for managing Raspberry Pi environments at scale. 
