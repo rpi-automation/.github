@@ -1,3 +1,6 @@
+_I'm moving this organization to codeberg.
+First I'll move everything into single repo as there is no need to use full organisation for single machine maintained by single person_
+
 # Raspberry Pi Automation
 
 This project aims to provide a comprehensive automation infrastructure for Raspberry Pi devices, leveraging Ansible and workflow automation tools to simplify management and boost productivity.
