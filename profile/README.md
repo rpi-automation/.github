@@ -1,5 +1,4 @@
-_I'm moving this organization to codeberg.
-First I'll move everything into single repo as there is no need to use full organisation for single machine maintained by single person_
+_I'm moving this organization to codeberg repo_
 
 # Raspberry Pi Automation
 
