@@ -1,4 +1,4 @@
-_I'm moving this organization to codeberg repo https://codeberg.org/publowski/rpi-automation _
+# _!!! Repository moved to [Codeberg](https://codeberg.org/publowski/rpi-automation) !!!_
 
 # Raspberry Pi Automation
 
